@@ -1,0 +1,74 @@
+index.html
+<!DOCTYPE html>
+<head>
+  <style>body{background-color: black;
+    color: purple;}
+    p{color: white;}
+  </style>
+</head>
+<body>
+  <h2>Profile</h2>
+  <p>This information will be shared publicly so be careful with what you share.</p>
+  <h3>Photo</h3>
+  <h3>Username</h3> 
+  <p>jssaten.com/</p>
+  <h3>About</h3> 
+  <p> Brief description for your profile. URLs are hyperlinked.</p>
+  <form>
+    <h3>First Name</h3> 
+    <h3>Last Name</h3>
+    <br>
+  <h2>Privacy</h2>
+  <h3>Comments</h3>
+  <p>Get notified when someone posts a comment on a posting</p>
+  <h3>Candidates</h3>
+  <p>Get notified when a candidate applies for a job.</p>
+  <h3>Offers</h3>
+  <p>Get notified when a candidate accepts or rejects an offer.</p>
+    <button> Cancel</button> <button> Save</button>
+     </form>
+</body>
+</html>
+
+profile1.html
+<!DOCTYPE html>
+<head>
+  <style>body{background-color: black;
+    color: green;}
+    p{color: white;}
+  </style>
+</head>
+<body>
+  <p> Product Features Marketplace Company Login </p>
+  <h2>Courtney Henry</h2>
+  <p>Designer</p>
+  <h3>Phone</h3>
+  <p>123-456-7890</p>
+  <h3>URL</h3> 
+  <p>https://example.com</p>
+  <h3>Email</h3> 
+  <p> courtneyhenry@example.com</p>
+    <button> View Profile</button>
+</body>
+</html>
+
+profile2.html
+<!DOCTYPE html>
+<head>
+  <style>body{background-color: black;
+    color: yellow;}
+    p{color: white;}
+  </style>
+</head>
+<body><p> Product Features Marketplace Company Login </p>
+  <h2>Alicia Bell</h2>
+  <p>Junior Copywriter</p>
+  <h3>Phone</h3>
+  <p>127-436-7899</p>
+  <h3>URL</h3> 
+  <p>https://example.com</p>
+  <h3>Email</h3> 
+  <p> aliciabell@example.com</p>
+    <button> View Profile</button>
+</body>
+</html>
